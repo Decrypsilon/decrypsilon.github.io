@@ -3,12 +3,14 @@ html {
 }
 
 body {
-  width: calc(85%);
+  width: calc(50%);
   margin: 84px auto;
-  padding: 30;
+  padding: 40;
   border: 5px solid #000000;
 }
 
 p {
-  text-align: center
+  font-size: 17;
+  line-height: 2;
+  text-align: center;
 }
