@@ -1,9 +1,14 @@
-html { 
-  font-family: consolas; 
+html {
+  font-family: consolas;
+}
+
+body {
+  width: calc(85%);
+  margin: 84px auto;
+  padding: 30;
+  border: 5px solid #000000;
 }
 
 p {
-  color: black;
-  width: 500px;
-  text-align: center;
+  text-align: center
 }
