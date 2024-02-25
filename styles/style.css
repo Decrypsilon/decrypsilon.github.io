@@ -1,9 +1,9 @@
-html {
-  font-size: 10px; 
-  font-family: "Open Sans", sans-serif; 
+html { 
+  font-family: consolas; 
 }
 
 p {
-  color: red;
+  color: black;
   width: 500px;
+  text-align: center;
 }
